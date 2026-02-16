@@ -27,5 +27,5 @@ print(max(13,46))
 
 print(math.sqrt(144))
 
-print(25**2) 25 raised to power 2
-print(3**3)
+print(25**2) # 25 raised to the power of 2
+print(3**3) # 3 raised to the power of 3
