@@ -1,5 +1,5 @@
 # benedict musa
-# 13/2.2026
+# 18/2/2026
 # program to show for tuples in physic
 #tuples of fruits
 

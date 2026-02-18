@@ -31,7 +31,7 @@ print("new mpesa code: ", lowercase)
  
 #replacing character in a string
 
-balance = "100kes"
+balance = "1000kes"
 amount_added = "50kes"
 
 cleaned_balance = balance.replace("KES", "")
@@ -44,4 +44,4 @@ print("cleaned amount added: ", cleaned_amount_added)
 
 print(f"Your new mpesa balance is: ", cleaned_amount_added)
 
-total_balance = int(cleaned_balance) + int(cleaned_amount_added)
+total_balance = int(cleaned_balancebalance) + int(cleaned_amount_added)

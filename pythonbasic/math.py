@@ -1,9 +1,9 @@
-
-
-angle_degrees = angle_radians / 180
+# Benedict musa
+# 17/2/2026
 # program:to do mathematic problem
 
 number =16.79
+import math
 
 print(abs(number))
 print(math.ceil(number))

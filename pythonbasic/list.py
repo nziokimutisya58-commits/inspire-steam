@@ -1,5 +1,5 @@
 # benedict musa
-# 16/2/2026
+# 18/2/2026
 # Program to show list in python
 
 friends =  ["Rachel","Pheobe","Ross","Chandler","Joey","Monica"]
